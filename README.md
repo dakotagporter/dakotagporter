@@ -49,16 +49,6 @@ I'm [Dakota Porter](https://github.com/dakotagporter/) and I am a new Data Scien
 
 <h1 align="center">
 ✨ Where you can find me ✨
-  
-  <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
-
-  <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
-
-  <!-- https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook -->
-
-  <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
-
-  <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
 
 <p align="center">
   <br/>
@@ -73,13 +63,16 @@ I'm [Dakota Porter](https://github.com/dakotagporter/) and I am a new Data Scien
   <a href="https://www.instagram.com/its_dakota_btw/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
+  <a href="https://www.linkedin.com/in/dakotagporter/">
+    <img src="https://img.shields.io/badge/Linkedin-Dakota Porter-blue&?style=social&logo=linkedin">
+  </a>
   <br/>
 </p>
 </h1>
 
 <div align = "center">
 
-![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=parth-27&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+![Dakota's Github Status](https://github-readme-stats.vercel.app/api?username=parth-27&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 <hr>
 
@@ -89,4 +82,3 @@ I'm [Dakota Porter](https://github.com/dakotagporter/) and I am a new Data Scien
 
 
 ---
-⭐️ From [Parth Patel](https://github.com/parth-27) 
