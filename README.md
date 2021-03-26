@@ -75,7 +75,7 @@ I'm [Dakota Porter](https://github.com/dakotagporter/) and I am a new Data Scien
 
 </div>
 
-<h3>Thanks for Stopping by!! 😊</h3>
+<h3>Feel free to contact me through any of the resources linked above!! Have a nice day!!</h3>
 
 
 ---
