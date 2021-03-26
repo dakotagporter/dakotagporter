@@ -62,11 +62,11 @@ I'm [Dakota Porter](https://github.com/dakotagporter/) and I am a new Data Scien
 
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/parth-patel-313a40198/">
+  <a href="https://www.linkedin.com/in/dakotagporter/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="https://github.com/parth-27">
+  <a href="https://github.com/dakotagporter">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
 
