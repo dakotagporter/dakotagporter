@@ -63,16 +63,13 @@ I'm [Dakota Porter](https://github.com/dakotagporter/) and I am a new Data Scien
   <a href="https://www.instagram.com/its_dakota_btw/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/dakotagporter/">
-    <img src="https://img.shields.io/badge/Linkedin-Dakota Porter-blue&?style=social&logo=linkedin">
-  </a>
   <br/>
 </p>
 </h1>
 
 <div align = "center">
 
-![Dakota's Github Status](https://github-readme-stats.vercel.app/api?username=parth-27&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+![Dakota's Github Status](https://github-readme-stats.vercel.app/api?username=dakotagporter&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 <hr>
 
