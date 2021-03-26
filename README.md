@@ -69,20 +69,11 @@ I'm [Dakota Porter](https://github.com/dakotagporter/) and I am a new Data Scien
   <a href="https://github.com/dakotagporter">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
-
-
-  <br/>
-  <a href="https://www.facebook.com/profile.php?id=100026103873514">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
-  </a>
- 
-  <a href="https://www.instagram.com/parth._.27/">
+  
+  <a href="https://www.instagram.com/its_dakota_btw/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
-
-  <a href="https://twitter.com/parthpatel_27">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
-  </a>
+  <br/>
 </p>
 </h1>
 
