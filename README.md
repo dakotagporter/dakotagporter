@@ -48,7 +48,7 @@ I'm [Dakota Porter](https://github.com/dakotagporter/) and I am a new Data Scien
 <hr>
 
 <h1 align="center">
-✨ Where you can find me ✨
+&#128071; If you are still curious about me &#128071;
 
 <p align="center">
   <br/>
