@@ -18,7 +18,6 @@ I'm [Dakota Porter](https://github.com/dakotagporter/) and I am a new Data Scien
       <td width="25%" align="center">
         <span>Python</span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
         <span>SQL</span><br><br><br>
@@ -28,13 +27,13 @@ I'm [Dakota Porter](https://github.com/dakotagporter/) and I am a new Data Scien
         <span>AWS</span><br><br><br>
         <img height="64px" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-512.png">
       </td>
+    </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Linux</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Bash</strong>
         </span><br><br><br>
@@ -42,14 +41,6 @@ I'm [Dakota Porter](https://github.com/dakotagporter/) and I am a new Data Scien
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-
-    <tr valign="top">
-
-
-      <td width="25%" align="center">
-        <span><strong>C</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
       </td>
     </tr>
   </tbody>
