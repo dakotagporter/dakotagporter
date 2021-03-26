@@ -27,6 +27,10 @@ I'm [Dakota Porter](https://github.com/dakotagporter/) and I am a new Data Scien
         <span>AWS</span><br><br><br>
         <img height="64px" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-512.png">
       </td>
+      <td width="25%" align="center">
+        <span>Machine Learning</span><br><br><br>
+        <img height="64px" src="https://cdn1.iconfinder.com/data/icons/data-science-flat-1/64/predictive-modeling-machine-learning-system-512.png">
+      </td>      
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -41,6 +45,10 @@ I'm [Dakota Porter](https://github.com/dakotagporter/) and I am a new Data Scien
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Data Visualization</span><br><br><br>
+        <img height="64px" src="https://cdn2.iconfinder.com/data/icons/popicon-part-1/252/35-512.png">
       </td>
     </tr>
   </tbody>
