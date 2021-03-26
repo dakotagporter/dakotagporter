@@ -28,6 +28,10 @@ I'm [Dakota Porter](https://github.com/dakotagporter/) and I am a new Data Scien
         <img height="64px" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-512.png">
       </td>
       <td width="25%" align="center">
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="25%" align="center">
         <span>Machine Learning</span><br><br><br>
         <img height="64px" src="https://cdn1.iconfinder.com/data/icons/data-science-flat-1/64/predictive-modeling-machine-learning-system-512.png">
       </td>      
