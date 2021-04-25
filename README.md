@@ -10,7 +10,7 @@ I'm [Dakota Porter](https://github.com/dakotagporter/) and I am a new Data Scien
 
 <hr/>
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
