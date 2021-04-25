@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm [Dakota Porter](https://github.com/dakotagporter/) and I am a new Data Scientist on the hunt for a job that will satisfy my passion for code and collaboration. I live to learn and love to help. Expanding my knowledge is my goal and sharing it with others quickly follows. Giving advice is just as important to me as receiving it and I thrive on being a support system where it is needed most. I desire deep-rooted connections and take every day as an opportunity to learn something new and carry out actions and relationships that will create progress in both my world and that of the others around me.
+I'm [Dakota Porter](https://github.com/dakotagporter/) and I am a new Data Scientist on the hunt for a job that will satisfy my passion for code and collaboration. I am eager to spend my life learning and developing new skills on my journey through tech. My labor for data and insights stands out as a beacon of passion. My work with Data Science is the manifestation of my previous experience in logic and calculation. Supporting others is what drives me to strive for greatness. These qualities act as a catalyst to open my mind and tackle any challenges that lay ahead of me.
 
 <hr/>
 
