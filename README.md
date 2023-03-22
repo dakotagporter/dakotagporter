@@ -43,7 +43,7 @@ My name is [Dakota Porter](https://github.com/dakotagporter/) and as a generalis
       </td>
       <td width="25%" align="center">
         <span>Esri</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/800px-ArcGIS_logo.png">
+        <img height="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/800px-ArcGIS_logo.png">
       </td>   
       <td width="25%" align="center">
         <span><strong>Power BI</strong>
