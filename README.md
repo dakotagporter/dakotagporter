@@ -24,28 +24,28 @@ My name is [Dakota Porter](https://github.com/dakotagporter/) and as a generalis
         <img height="64px" src="https://cdn1.iconfinder.com/data/icons/customicondesign-office-shadow/256/Sql-runner.png">
       </td>
       <td width="25%" align="center">
+        <span>Machine Learning</span><br><br><br>
+        <img height="64px" src="https://cdn1.iconfinder.com/data/icons/data-science-flat-1/64/predictive-modeling-machine-learning-system-512.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Power BI</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_power_bi-512.png">
+      </td>         
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
         <span>AWS</span><br><br><br>
         <img height="64px" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-512.png">
       </td>
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <span>Azure</span><br><br><br>
+        <img height="64px" src="https://cdn0.iconfinder.com/data/icons/business-and-finance-440/1080/03_Azure-512.png">
       </td>
-      <td width="25%" align="center">
-        <span>Machine Learning</span><br><br><br>
-        <img height="64px" src="https://cdn1.iconfinder.com/data/icons/data-science-flat-1/64/predictive-modeling-machine-learning-system-512.png">
+   f   <td width="25%" align="center">
+        <span>Esri ArcGIS</span><br><br><br>
+        <img height="64px" src="https://w7.pngwing.com/pngs/164/786/png-transparent-planet-earth-artwork-esri-arcgis-server-geographic-information-system-computer-software-previous-icon-symmetry-sphere-map-thumbnail.png">
       </td>      
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Linux</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Bash</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn2.iconfinder.com/data/icons/limitless/128/terminal-command-line-console-cmd-2-512.png">
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
