@@ -39,11 +39,11 @@ My name is [Dakota Porter](https://github.com/dakotagporter/) and as a generalis
       </td>
       <td width="25%" align="center">
         <span>Azure</span><br><br><br>
-        <img height="64px" src="https://cdn0.iconfinder.com/data/icons/business-and-finance-440/1080/03_Azure-512.png">
+        <img height="64px" src="https://swimburger.net/media/ppnn3pcl/azure.png">
       </td>
       <td width="25%" align="center">
         <span>Esri ArcGIS</span><br><br><br>
-        <img height="64px" src="https://w7.pngwing.com/pngs/164/786/png-transparent-planet-earth-artwork-esri-arcgis-server-geographic-information-system-computer-software-previous-icon-symmetry-sphere-map-thumbnail.png">
+        <img height="64px" src="https://e7.pngegg.com/pngimages/164/786/png-clipart-planet-earth-artwork-esri-arcgis-server-geographic-information-system-computer-software-previous-icon-symmetry-sphere-thumbnail.png">
       </td>   
       <td width="25%" align="center">
         <span><strong>Power BI</strong>
