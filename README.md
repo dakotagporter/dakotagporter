@@ -10,7 +10,7 @@ My name is [Dakota Porter](https://github.com/dakotagporter/) and as a generalis
 
 <hr/>
 
-## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
+## My Tech Stack
 
 <table>
   <tbody>
