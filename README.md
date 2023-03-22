@@ -28,10 +28,9 @@ My name is [Dakota Porter](https://github.com/dakotagporter/) and as a generalis
         <img height="64px" src="https://cdn1.iconfinder.com/data/icons/data-science-flat-1/64/predictive-modeling-machine-learning-system-512.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>Power BI</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_power_bi-512.png">
-      </td>         
+        <span>Apache Spark (+PySpark)</span><br><br><br>
+        <img height="64px" src="https://image.pngaaa.com/478/7261478-middle.png">
+      </td>      
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -42,18 +41,15 @@ My name is [Dakota Porter](https://github.com/dakotagporter/) and as a generalis
         <span>Azure</span><br><br><br>
         <img height="64px" src="https://cdn0.iconfinder.com/data/icons/business-and-finance-440/1080/03_Azure-512.png">
       </td>
-   f   <td width="25%" align="center">
+      <td width="25%" align="center">
         <span>Esri ArcGIS</span><br><br><br>
         <img height="64px" src="https://w7.pngwing.com/pngs/164/786/png-transparent-planet-earth-artwork-esri-arcgis-server-geographic-information-system-computer-software-previous-icon-symmetry-sphere-map-thumbnail.png">
-      </td>      
+      </td>   
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Data Visualization</span><br><br><br>
-        <img height="64px" src="https://cdn2.iconfinder.com/data/icons/popicon-part-1/252/35-512.png">
-      </td>
+        <span><strong>Power BI</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png">
+      </td>        
     </tr>
   </tbody>
 </table>
