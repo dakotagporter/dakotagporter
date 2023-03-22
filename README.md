@@ -6,7 +6,8 @@
 
 ## About Me
 
-I'm [Dakota Porter](https://github.com/dakotagporter/) and I am a new Data Scientist on the hunt for a job that will satisfy my passion for code and collaboration. I am eager to spend my life learning and developing new skills on my journey through tech. My labor for data and insights stands out as a beacon of passion. My work with Data Science is the manifestation of my previous experience in logic and calculation. Supporting others is what drives me to strive for greatness. These qualities act as a catalyst to open my mind and tackle any challenges that lay ahead of me.
+My name is [Dakota Porter](https://github.com/dakotagporter/) and as a generalist, I value learning. My passion for growth and fluidity drives me to uncover the tools required to find a solution for the problems I face and do what's necessary to reach the solution in a secure and optimal manner. My experience in the tech industry thus far have taught me that creativity and adaptability are crucial elements in providing the best product or service to a user. I have and will always approach problems with a sense of aspiration and innovation rather than relying solely on pragmatism and specificity. Whether it's creating real-time data streams in cloud environments, extending the boundaries of enterprise data reporting and visualization, or gathering use cases and requirements to provide architectural design guidance, I have consistently thrived through being involved with the user, the developers, and the think tank as a whole to drive a stock that the user is thrilled to invest in. My growth and passion for this industry will never cease and I look forward to bringing a new perspective and being a reliable asset to you and your company. ![image](https://user-images.githubusercontent.com/72000859/226779274-48d1f122-ac74-4bd8-82d0-d1f492f92c04.png)
+
 
 <hr/>
 
