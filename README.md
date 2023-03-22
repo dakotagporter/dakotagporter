@@ -29,7 +29,7 @@ My name is [Dakota Porter](https://github.com/dakotagporter/) and as a generalis
       </td>
       <td width="25%" align="center">
         <span>Apache Spark (+PySpark)</span><br><br><br>
-        <img height="64px" src="https://image.pngaaa.com/478/7261478-middle.png">
+        <img height="64px" src="https://www.apache.org/foundation/press/kit/feather.png">
       </td>      
     </tr>
     <tr valign="top">
